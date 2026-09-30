@@ -33,6 +33,12 @@ The data was cleaned and prepared in Excel, analyzed using MySQL, and visualized
 
 The Power BI dashboard provides an interactive view of employee demographics, promotion and retrenchment status, tenure, job levels, distance status, and employee engagement.
 
+![HR Analytics Dashboard 1](Hr%20Analytics%20IMG%201.png)
+
+![HR Analytics Dashboard 2](Hr%20Analytics%20IMG%202.png)
+
+![HR Analytics Dashboard 3](Hr%20Analytics%20IMG%203.png)
+
 ## Project Outcome
 
 The analysis transformed raw employee data into structured insights that can help organizations understand workforce patterns and support data-driven HR planning and decision-making.
